@@ -1,4 +1,4 @@
--👋 Hi, I’m @MindMancer1980
+-👋 Hi, I’m @Sven Schmidtke
 
 - 👀 I’m interested in predictive analytics, chatbots, and robotic process automation. I’m passionate about leveraging technology, especially Python and KNIME, to improve efficiency and enhance user experiences.
 
@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on projects related to predictive modeling, chatbot development, and automation solutions. As a newbie, I’m eager to learn from others!
 
-- 📫 How to reach me: You can contact me here @GitHub.
+- 📫 How to reach me: You can contact me here @GitHub or @LinkedIn.
 
 - 😄 Pronouns: he/him
 
